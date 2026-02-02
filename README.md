@@ -1,5 +1,5 @@
 ![Logo](/Banner4.png)
-# ALBOURNE VILLAGE SHOW 2026
+# <code style="color : blue">ALBOURNE VILLAGE SHOW 2026</code>
 ## Saturday 5th September 2pm - 10pm
 **At the Recreational Ground**
 ### Bands
