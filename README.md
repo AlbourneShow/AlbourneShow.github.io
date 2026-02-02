@@ -2,9 +2,11 @@
 # <code style="color : blue">ALBOURNE VILLAGE SHOW 2026</code>
 ## Saturday 5th September 2pm - 10pm
 **At the Recreational Ground**
+<span style="color:red">
 ### Bands
 - The Stanmer Band (To be confirmed)
 - The Kites (To be confirmed)
+</span>
 ### Competitions
 #### Flower Show
 - Vegetables
