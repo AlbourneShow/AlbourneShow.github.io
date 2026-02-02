@@ -13,8 +13,8 @@
 - Crafts
 - Kids crafts  
 #### Dog Show
-Starts at 3:30  
-Register Entries with at the Raffle stand (£2.50 per class entry)
+Starts at 3:30<br/>
+Register Entries with at the Raffle stand (£2.50 per class entry)<br/>
 - Best Pooch
 - Best Rescue
 - Waggiest Tail
@@ -24,8 +24,9 @@ Register Entries with at the Raffle stand (£2.50 per class entry)
 - Child's Best Friend (Child Under 16)
 - Best in Show
 #### Photography Show
-Free to Enter (bring to Show Marquee between 10am and 3pm)  
-Please Print 10x8 Photos for Displaying (Name and contact number on the back)  
+Free to Enter (bring to Show Marquee between 10am and 3pm)<br/>
+Please Print 10x8 Photos for Displaying (Name and contact number on the back)<br/>
+<br/>
 Categories
   - Albourne Pets
   - Albourne Wildlife
