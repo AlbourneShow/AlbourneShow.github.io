@@ -25,7 +25,8 @@ Register Entries with at the Raffle stand (£2.50 per class entry)<br/>
 - Best in Show
 #### Photography Show
 Free to Enter (bring to Show Marquee between 10am and 3pm)<br/>
-Please Print 10x8 Photos for Displaying (Name and contact number on the back)<br/>
+Please Print 10x8 Photos for Displaying<br/> 
+Write Your name, contact number and category on the back<br/>
 <br/>
 Categories
   - Albourne Pets
