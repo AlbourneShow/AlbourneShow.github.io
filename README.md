@@ -13,7 +13,7 @@
 - Crafts
 - Kids crafts  
 #### Dog Show
-Starts at 3:30
+Starts at 3:30  
 Register Entries with at the Raffle stand (£2.50 per class entry)
 - Best Pooch
 - Best Rescue
