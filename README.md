@@ -5,7 +5,16 @@
 - The Stanmer Band
 - The Kites
 ### Competitions
-- Vegetable, Craft and Flower Show
+- Flower Show
+  - Vegetables
+  - Bakes
+  - Preserves
+  - Flowers
+  - Crafts
+  - Kids crafts  
 - Dog Show
 - Photography Show
 ### Stuff to Do
+- Raffle
+- Craft Fair
+- 
