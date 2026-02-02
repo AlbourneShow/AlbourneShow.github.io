@@ -3,10 +3,8 @@
 ## Saturday 5th September 2pm - 10pm
 **At the Recreational Ground**
 ### Bands
-<span style="color:red">
-- The Stanmer Band (To be confirmed)
+- <span style="color:red;"The Stanmer Band (To be confirmed)</span>
 - The Kites (To be confirmed)
-</span>
 ### Competitions
 #### Flower Show
 - Vegetables
