@@ -24,8 +24,8 @@ Register Entries with at the Raffle stand (£2.50 per class entry)
 - Child's Best Friend (Child Under 16)
 - Best in Show
 #### Photography Show
-Free to Enter (bring to Show Marquee between 10am and 3pm)
-Please Print 10x8 Photos for Displaying (Name and contact number on the back)
+Free to Enter (bring to Show Marquee between 10am and 3pm)  
+Please Print 10x8 Photos for Displaying (Name and contact number on the back)  
 Categories
   - Albourne Pets
   - Albourne Wildlife
