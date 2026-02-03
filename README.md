@@ -1,4 +1,4 @@
-![Logo](/Banner4.png)
+![Logo](/Banner.png)
 <!-- # <code style="color : blue">ALBOURNE VILLAGE SHOW 2026</code> -->
 <!-- # $\color{blue}{ALBOURNE\ VILLAGE\ SHOW\ 2026}$ -->
 # ALBOURNE VILLAGE SHOW 2026
@@ -49,3 +49,5 @@ Categories
 - Soft Drinks
 - Tea, Coffee and Cakes
 - Ice cream
+
+![Sponsors](/Sponsors.png)
