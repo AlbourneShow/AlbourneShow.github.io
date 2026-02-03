@@ -85,8 +85,7 @@ Categories
 - Tea, Coffee and Cakes
 - Ice cream
 
-> There are a limited number of stands available in our craft tent<br/>
-> for people wanting to showcase and sell their unique hand made items.<br>
-> Stands are £25 each. To book a space email lynnebannon@hotmail.co.uk
+> There are a limited number of stands available in our craft tent for people wanting to showcase and sell their unique hand made items.<br>
+> *Stands are £25 each. To book a space email lynnebannon@hotmail.co.uk*
 
 ![Sponsors](/Sponsors.png)
