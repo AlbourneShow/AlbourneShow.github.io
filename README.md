@@ -45,11 +45,10 @@
 > You'll be able to collect your items by 5pm if you want to take them home with you.<br/>
 > After this, if they aren't claimed, then we'll auction the items to raise funds for next year's show.<br/>
 
-*If you have any questions please email emma.purdy@zen.co.uk*
+> *If you have any questions please email emma.purdy@zen.co.uk*
 
 ### Dog Show
-Starts at 3:30<br/>
-Register Entries with at the Raffle stand (£2.50 per class entry)<br/>
+Categories
 - Best Pooch
 - Best Rescue
 - Waggiest Tail
@@ -58,6 +57,9 @@ Register Entries with at the Raffle stand (£2.50 per class entry)<br/>
 - Dog Most Like Owner
 - Child's Best Friend (Child Under 16)
 - Best in Show
+
+> Starts at 3:30<br/>
+> Register entries at the Raffle stand (£2.50 per class entry) before 3:30<br/>
   
 ### Photography Show
 Free to enter (bring to Show Marquee between 10am and 3pm)<br/>
