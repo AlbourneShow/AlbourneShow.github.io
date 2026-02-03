@@ -77,7 +77,7 @@ Categories
 
 ### Stuff to Do
 - Raffle
-- Craft Fair<sup>*</sup>
+- Craft Fair<sup>i</sup>
 - Kids Activities
 - Full Bar from ***The Hop Tub***
 - Food Trucks
@@ -85,7 +85,7 @@ Categories
 - Tea, Coffee and Cakes
 - Ice cream
 
-> <sup>*</sup>There are a limited number of stands available in our craft tent for people wanting to showcase and sell their unique hand made items.<br>
+> <sup>i</sup>There are a limited number of stands available in our craft tent for people wanting to showcase and sell their unique hand made items.<br>
 > *Stands are £25 each. To book a space email lynnebannon@hotmail.co.uk*
 
 ![Sponsors](/Sponsors.png)
