@@ -8,15 +8,14 @@
 <!--- $${\color{red}The\ Stanmer\ Band\ (To\ be\ confirmed)}$$ -->
 - The Stanmer Band (To be confirmed)
 - The Kites (To be confirmed)
-### Competitions
-#### Flower Show
+### Flower Show
 - Vegetables
 - Bakes
 - Preserves
 - Flowers
 - Crafts
 - Kids crafts  
-#### Dog Show
+### Dog Show
 Starts at 3:30<br/>
 Register Entries with at the Raffle stand (£2.50 per class entry)<br/>
 - Best Pooch
@@ -27,7 +26,7 @@ Register Entries with at the Raffle stand (£2.50 per class entry)<br/>
 - Dog Most Like Owner
 - Child's Best Friend (Child Under 16)
 - Best in Show
-#### Photography Show
+### Photography Show
 Free to Enter (bring to Show Marquee between 10am and 3pm)<br/>
 Please Print 10x8 Photos for Displaying<br/> 
 Write Your name, contact number and category on the back<br/>
