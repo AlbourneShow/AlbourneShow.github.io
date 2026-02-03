@@ -1,8 +1,8 @@
 ![Logo](/Banner4.png)
-# <code style="color : blue">ALBOURNE VILLAGE SHOW 2026</code> 
+<!-- # <code style="color : blue">ALBOURNE VILLAGE SHOW 2026</code> -->
 <!-- # $\color{blue}{ALBOURNE\ VILLAGE\ SHOW\ 2026}$ -->
-<!-- # ALBOURNE VILLAGE SHOW 2026 -->
-## Saturday 5th September 2pm - 10pm
+# ALBOURNE VILLAGE SHOW 2026
+## Saturday 5<sup>th</sup> September 2pm - 10pm
 **At the Recreational Ground**
 ### Bands
 <!--- $${\color{red}The\ Stanmer\ Band\ (To\ be\ confirmed)}$$ -->
