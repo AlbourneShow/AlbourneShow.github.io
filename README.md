@@ -42,7 +42,7 @@ Bring your entries to the show before 3pm on the day and deliver to the flow sho
 You'll be able to collect your items by 5pm of you want to take them home with you.<br/>
 After this, if they aren't claimed, then we'll auction the items to raise funds for next year's show.<br/>
 
-* *If you have any questions please email emma.purdy@zen.co.uk* *
+*If you have any questions please email emma.purdy@zen.co.uk*
 
 ### Dog Show
 Starts at 3:30<br/>
