@@ -65,17 +65,15 @@ Categories
 > Register entries at the Raffle stand (£2.50 per class entry) before 3:30<br/>
   
 ### Photography Competition
-<br/>
 Categories
   - Albourne Pets
   - Albourne Wildlife
   - Albourne Scenery
   - Village Life
 
-> Free to enter (bring to the Flower Show tent before 2:30pm)<br/>
-> Please print 10x8 copy of your photos for display and village vote<br/> 
+> Free to enter<br/>
+> Please print 10x8 copy of your photos and bring to the Flower Show tent before 2:30pm<br/> 
 > Write your name, contact number and category on the back<br/>
-
 
 ### Stuff to Do
 - Raffle
