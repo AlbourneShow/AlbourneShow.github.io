@@ -36,14 +36,14 @@
   - Something you have baked
   - A model from recycled materials
 
-It's free to enter, one entry per category per person.<br/>
-Please only enter for fun...<br/>
-There are no big prizes, just bragging rights!<br/>
-Judges will be local lovers of the category - not professionals!!<br>
+> It's free to enter, one entry per category per person.<br/>
+> Please only enter for fun...<br/>
+> There are no big prizes, just bragging rights!<br/>
+> Judges will be local lovers of the category - not professionals!!<br>
 
-Bring your entries to the show before 3pm on the day and deliver to the flow show tent.<br/>
-You'll be able to collect your items by 5pm if you want to take them home with you.<br/>
-After this, if they aren't claimed, then we'll auction the items to raise funds for next year's show.<br/>
+> Bring your entries to the show before 3pm on the day and deliver to the flow show tent.<br/>
+> You'll be able to collect your items by 5pm if you want to take them home with you.<br/>
+> After this, if they aren't claimed, then we'll auction the items to raise funds for next year's show.<br/>
 
 *If you have any questions please email emma.purdy@zen.co.uk*
 
