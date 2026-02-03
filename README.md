@@ -10,12 +10,39 @@
 - The Kites (To be confirmed)
   
 ### Flower Show
-- Vegetables
-- Bakes
-- Preserves
-- Flowers
-- Crafts
-- Kids crafts
+- Creative Crafts
+  - Best recycled craft item
+  - A crafty item (made by hand)
+- From Your Garden
+  - Funniest vegetable
+  - Heaviest single veg
+  - Longest Runner Bean
+  - Basket of vibrant vegetables
+  - Flowers (displayed in a jar)
+  - A vase or jar with a single stem
+- Home made treats
+  - Flap jacks
+  - Jar of chutney
+  - Jar of jam
+  - Jar of marmalade
+  - Chocolate cake
+  - Loaf of bread
+  - Boozy bottle (fruit spirit/liquer)
+- Kids Under 5
+  - Drawing
+  - Most impressive vegetable monster
+- Under 16
+  - Flowers in a teacup
+  - Something you have baked
+  - A model from recycled materials
+
+It's free to enter, one entry per category per person.
+
+Bring your entries to the show before 3pm on the day and deliver to the flow show tent.<br/>
+You'll be able to collect your items by 5pm of you want to take them home with you.<br/>
+After this, if they aren't claimed, then we'll auction the items to raise funds for next year's show.<br/>
+
+* *If you have any questions please email emma.purdy@zen.co.uk* *
 
 ### Dog Show
 Starts at 3:30<br/>
