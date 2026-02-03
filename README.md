@@ -16,7 +16,7 @@
 - Flowers
 - Crafts
 - Kids crafts
-<br/>
+
 ### Dog Show
 Starts at 3:30<br/>
 Register Entries with at the Raffle stand (£2.50 per class entry)<br/>
@@ -28,7 +28,7 @@ Register Entries with at the Raffle stand (£2.50 per class entry)<br/>
 - Dog Most Like Owner
 - Child's Best Friend (Child Under 16)
 - Best in Show
-<br/>  
+  
 ### Photography Show
 Free to enter (bring to Show Marquee between 10am and 3pm)<br/>
 Please print 10x8 copy of your photos for displaying<br/> 
@@ -39,7 +39,7 @@ Categories
   - Albourne Wildlife
   - Albourne Scenery
   - Village Life
-<br/>
+
 ### Stuff to Do
 - Raffle
 - Craft Fair
