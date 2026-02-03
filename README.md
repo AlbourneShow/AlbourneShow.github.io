@@ -10,17 +10,17 @@
 - The Kites (To be confirmed)
   
 ### Flower Show
-- Creative Crafts
+- **Creative Crafts**
   - Best recycled craft item
   - A crafty item (made by hand)
-- From Your Garden
+- **From Your Garden**
   - Funniest vegetable
   - Heaviest single veg
   - Longest Runner Bean
   - Basket of vibrant vegetables
   - Flowers (displayed in a jar)
   - A vase or jar with a single stem
-- Home made treats
+- **Home made treats**
   - Flap jacks
   - Jar of chutney
   - Jar of jam
@@ -28,10 +28,10 @@
   - Chocolate cake
   - Loaf of bread
   - Boozy bottle (fruit spirit/liquer)
-- Kids Under 5
+- **Kids Under 5**
   - Drawing
   - Most impressive vegetable monster
-- Under 16
+- **Under 16**
   - Flowers in a teacup
   - Something you have baked
   - A model from recycled materials
