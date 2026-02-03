@@ -1,10 +1,12 @@
 ![Logo](/Banner4.png)
 <!-- # <code style="color : blue">ALBOURNE VILLAGE SHOW 2026</code> -->
-# $\color{blue}{ALBOURNE\ VILLAGE\ SHOW\ 2026}$
+<!-- # $\color{blue}{ALBOURNE\ VILLAGE\ SHOW\ 2026}$ -->
+# ALBOURNE VILLAGE SHOW 2026
 ## Saturday 5th September 2pm - 10pm
 **At the Recreational Ground**
 ### Bands
-- $${\color{red}The\ Stanmer\ Band\ (To\ be\ confirmed)}$$
+<!--- $${\color{red}The\ Stanmer\ Band\ (To\ be\ confirmed)}$$ -->
+- The Stanmer Band (To be confirmed)
 - The Kites (To be confirmed)
 ### Competitions
 #### Flower Show
@@ -38,4 +40,4 @@ Categories
 ### Stuff to Do
 - Raffle
 - Craft Fair
-- 
+- Plus much more... 
