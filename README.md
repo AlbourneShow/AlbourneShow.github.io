@@ -31,8 +31,8 @@ Register Entries with at the Raffle stand (£2.50 per class entry)<br/>
   
 ### Photography Show
 Free to enter (bring to Show Marquee between 10am and 3pm)<br/>
-Please print 10x8 copy of your photos for displaying<br/> 
-Write Your name, contact number and category on the back<br/>
+Please print 10x8 copy of your photos for display and village vote<br/> 
+Write your name, contact number and category on the back<br/>
 <br/>
 Categories
   - Albourne Pets
@@ -43,4 +43,9 @@ Categories
 ### Stuff to Do
 - Raffle
 - Craft Fair
-- Plus much more... 
+- Kids Activities
+- Full Bar from ***The Hop Tub***
+- Food Trucks
+- Soft Drinks
+- Tea, Coffee and Cakes
+- Ice cream
