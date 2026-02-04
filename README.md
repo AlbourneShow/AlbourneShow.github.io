@@ -1,4 +1,5 @@
-![Logo](/Banner.png)
+<!-- ![Logo](/Banner.png) -->
+![Banner](/2026Banner600x306.jpg)
 <!-- # <code style="color : blue">ALBOURNE VILLAGE SHOW 2026</code> -->
 <!-- # $\color{blue}{ALBOURNE\ VILLAGE\ SHOW\ 2026}$ -->
 # ALBOURNE VILLAGE SHOW 2026
